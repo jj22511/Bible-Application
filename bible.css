@@ -1,0 +1,22 @@
+body {margin-top: 25px;margin-bottom: 25px;margin-right: 25px;margin-left: 25px;}
+img {width: 75%;height: auto;}
+
+/* NAVIGATION PANES*/
+.nav{font-size: 15px;font-weight: bold;}
+S
+
+/* OLD TESTAMENT*/
+.gen{font-size: 13px;}
+.genrtw{text-align: right;}
+/**/
+.genread,.exoread, .levread, .numread, .deuread, .joshread, .judgread, .rutread, .Isamread, .IIsamread, .Ikingread, .IIkingread, .Ichroread, .IIchroread, .ezrread, .nehread, .estread, .jobread, .psaread, .proread, .eccread, .sosread, .isaread, .jerread, .lamread, .ezeread, .danread, .hosread, .joeread, .amoread, .obaread, .jonread, .micread, .nahread, .habread, .zepread, .hagread, .zecread, .malread{background-color: white;border-style: groove;text-align: left; font-size: 13px;top: 25px; bottom: 25px;margin-right: 25px; position:fixed;overflow-y:scroll;overflow-x:hidden;padding: 15px;}
+/**/
+.matread, .marread, .lukread, .johnread, .actread, .romread, .Icorread, .IIcorread, .galread, .ephread, .phiread, .colread, .Itheread, .IItheread, .Itimread, .IItimread, .titread, .phileread, .hebread, .jamread, .Ipetread, .IIpetread, .Ijohnread, .IIjohnread, .IIIjohnread, .judread, .revread{background-color: white;border-style: groove;text-align: left; font-size: 13px;top: 25px; bottom: 25px;margin-right: 25px; position:fixed;overflow-y:scroll;overflow-x:hidden;padding: 15px;}
+/**/
+.mat{font-size: 13px;}
+.matrtw{text-align: right;}
+.matread{background-color: white;border-style: groove;text-align: left; font-size: 13px;top: 25px; bottom: 25px;margin-right: 25px; position:fixed;overflow-y:scroll;overflow-x:hidden;padding: 15px;}
+
+/*TEXTAREA*/
+.trivia{background-color: white; border-style: groove;text-align: center; font-size: 13px;top: 25px; bottom: 25px;margin-right: 25px; position:fixed;overflow-y:scroll;overflow-x:hidden;}
+.watch{background-color: white;border-style: groove; position:fixed;overflow-y:scroll;overflow-x:hidden;}
